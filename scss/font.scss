@@ -1,0 +1,81 @@
+
+// font-family: "Lora", serif;
+
+// 400
+@font-face {
+	font-family: "Lora";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Lora Regular"), local("Lora-Regular"), url("../fonts/Lora/Lora-Regular.ttf");
+}
+
+// 700
+@font-face {
+	font-family: "Lora";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Lora Bold"), local("Lora-Bold"), url("../fonts/Lora/Lora-Bold.ttf");
+}
+
+// font-family: "Open Sans", sans-serif;
+
+// 300
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: local("Open Sans Light"), local("OpenSans-Light"), url("../fonts/Open_Sans/OpenSans-Light.ttf");
+}
+
+// 400
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Open Sans Regular"), local("OpenSans-Regular"), url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+}
+
+// 600
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url("../fonts/Open_Sans/OpenSans-SemiBold.ttf");
+}
+
+// 700
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Open Sans Bold"), local("OpenSans-Bold"), url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+}
+
+// 800
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: local("Open Sans ExtraBold"), local("OpenSans-ExtraBold"), url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
+}
+
+// font-family: "rouble";
+
+@font-face {
+	font-family: 'rouble';
+	src: url('../fonts/rouble/rouble.eot?l22hly');
+	src: url('../fonts/rouble/rouble.eot?l22hly#iefix') format('embedded-opentype'),
+		 url('../fonts/rouble/rouble.ttf?l22hly') format('truetype'),
+		 url('../fonts/rouble/rouble.woff?l22hly') format('woff'),
+		 url('../fonts/rouble/rouble.svg?l22hly#rouble') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}

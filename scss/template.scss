@@ -1,0 +1,27 @@
+html{
+  height: 100%;
+}
+
+body{
+  margin: 0;
+  height: 100%;
+}
+
+.main-padding{
+  padding: 0 245px;
+  overflow: auto;
+  @media screen and (max-width: 1918px) {
+    padding: 0 16px;
+  }
+}
+
+.h2-opt{
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 36px;
+  color: #000000;
+  text-align: center;
+  margin: 50px 0 60px;
+}

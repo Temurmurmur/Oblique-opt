@@ -1,0 +1,174 @@
+@media screen and (max-width: 700px) {
+  .h2-opt{
+    font-size: 18px;
+    line-height: 23px;
+  }
+
+  .main-padding{
+    padding: 0 8px;
+  }
+
+  .wrap-top{
+    padding: 0;
+  }
+
+  .top-opt{
+    padding: 0 8px 43px;
+    background-position: center;
+    p{
+      font-size: 20px;
+      line-height: 22px;
+    }
+    img{
+      width: 145px;
+      margin: 107px 0 20px;
+    }
+  }
+
+  .desc-title-opt{
+    display: none;
+  }
+
+  .mob-title-opt{
+    display: inline-block;
+  }
+
+  .conditions-wrap-opt{
+    flex-direction: column;
+    background: none;
+  }
+
+  .wrap-item-opt{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 28px;
+    h5{
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 19px;
+      flex: 2;
+      margin-left: 12px;
+    }
+    img{
+      width: 41px;
+      height: 44px;
+    }
+  }
+  .item-content-opt{
+    margin-left: 0;
+  }
+
+  .extra-margin-opt{
+    margin-right: 0px;
+  }
+
+  .shadow-bonus-opt{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    h5{
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 22px;
+      color: #000000;
+      text-align: center;
+    }
+  }
+
+  .wrap-bonus-opt{
+    display: flex;
+    margin: 0;
+    padding: 0 8px;
+    p{
+      margin: 0;
+      margin-left: 13px;
+    }
+  }
+
+  .mob-padd-bonus{
+    padding: 55px 0;
+  }
+
+  .grey-bg-opt{
+    padding-top: 95px !important;
+  }
+
+  .wrap-map img{
+    width: 100%;
+  }
+
+  .slider-opt{
+    padding: 0;
+  }
+
+  .slider-opt .uk-dotnav{
+    display: flex;
+  }
+
+  .tablet-flex-reg{
+    flex-direction: column;
+  }
+
+  .registration-opt div b{
+    width: 100%;
+  }
+
+  .tablet-mrg-reg{
+    margin: 0 0 24px;
+  }
+
+  .mob-remove-padd{
+    padding: 0;
+  }
+
+  .wrap-reg-opt {
+    padding: 40px 8px 62px;
+  }
+
+  .wrapfield{
+    flex-direction: column;
+    margin-bottom: 16px;
+    input{
+      width: 100%;
+    }
+    span{
+      display: block;
+      width: 100%;
+      text-align: left;
+      margin: 0;
+      margin-bottom: 8px;
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 16px;
+    }
+    textarea{
+      width: 100%;
+    }
+  }
+
+  .mob-remove{
+    display: none;
+  }
+
+  .wrap-lookbs .uk-dotnav{
+    display: flex;
+  }
+
+  .contact-img-block{
+    display: none !important;
+  }
+
+  .tablet-reverse-cont .block-opt-cont{
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .check-opt{
+    width: 100% !important;
+  }
+
+}
